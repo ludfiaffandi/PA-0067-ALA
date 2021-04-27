@@ -1,1 +1,3 @@
 Universitas Semarang
+stash@{0}: WIP on master: a23cf4f branch baru
+stash@{1}: WIP on master: a23cf4f branch baru
